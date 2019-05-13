@@ -6,7 +6,7 @@ This repository tracks bugs and feature requests for ShuttleOps. [Click here to 
 Open a new Support Issue:
 -------------------------
 
-* Go to the [issues list](https://github.com/ShuttleOps/support/issues?state=open) and create a new issue by filling out the [New Issue Template](https://github.com/ShuttleOps/support/issues/new).
+* Go to the [issues list](https://github.com/ShuttleOps/support/issues?state=open) and create a new issue by filling out the [New Issue Template](https://github.com/ShuttleOps/support/issues/new)
 
 
 Track Issue Status:
