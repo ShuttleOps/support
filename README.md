@@ -21,12 +21,13 @@ During the triage, we tag the support issues per the following:
 
 **Process related labels:**
 
+- [needs triage](https://github.com/ShuttleOps/support/labels/needs%triage): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
 - [investigate](https://github.com/ShuttleOps/support/labels/investigate): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
 - [in progress](https://github.com/ShuttleOps/support/labels/in%20progress): An engineer is actively working on resolving the issue.
 - [need info from customer](https://github.com/ShuttleOps/support/labels/need%20info%20from%20customer): ShuttleOps requires additional information regarding the issue in order to continue troubleshooting. The customer who opened the issue is accountable to provide this information, to make progress towards resolution.
 - [resolved](https://github.com/ShuttleOps/support/labels/resolved): The issue has been resolved and tested, and is currently in the queue to be deployed to production.
-- [completed](https://github.com/ShuttleOps/support/labels/resolved): The fix for this has been deployed into production.
-- [backlog](https://github.com/ShuttleOps/support/labels/deferred): This issue has been added to our backlog for now and will not be actively worked on.
+- [completed](https://github.com/ShuttleOps/support/labels/completed): The fix for this has been deployed into production.
+- [backlog](https://github.com/ShuttleOps/support/labels/backlog): This issue has been added to our backlog for now and will not be actively worked on.
 
 The issue will be closed if it meets one of the following conditions:
 
