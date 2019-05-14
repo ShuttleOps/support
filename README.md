@@ -1,7 +1,7 @@
 ShuttleOps Support
 =================
 
-This repository tracks bugs and feature requests for ShuttleOps. [Click here to log into ShuttleOps](https://app.shuttleops.io) (COMING SOON - TO BE LAUCHED 5/20/2019).  To open a new support issue, click on the Issues tab and then the New Issue button.
+This repository tracks bugs and feature requests for ShuttleOps. [Click here to log into ShuttleOps](https://app.shuttleops.io) (COMING SOON - TO BE LAUCHED 5/20/2019).  To open a new support issue, click on the "Issues" tab and then the "New Issue" button.
 
 Open a new Support Issue:
 -------------------------
@@ -24,15 +24,16 @@ During the triage, we tag the support issues per the following:
 - [investigate](https://github.com/ShuttleOps/support/labels/investigate): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
 - [in progress](https://github.com/ShuttleOps/support/labels/in%20progress): An engineer is actively working on resolving the issue.
 - [need info from customer](https://github.com/ShuttleOps/support/labels/need%20info%20from%20customer): ShuttleOps requires additional information regarding the issue in order to continue troubleshooting. The customer who opened the issue is accountable to provide this information, to make progress towards resolution.
-- [resolved](https://github.com/ShuttleOps/support/labels/resolved): The issue has been mitigated either through code changes deployed into production and/or the issue has been successfully addressed.
+- [resovled](https://github.com/ShuttleOps/support/labels/resolved): The issue has been resolved and tested, and is currently in the queue to be deployed to production.
+- [completed](https://github.com/ShuttleOps/support/labels/resolved): The fix for this has been deployed into production.
 - [backlog](https://github.com/ShuttleOps/support/labels/deferred): This issue has been added to our backlog for now and will not be actively worked on.
 
 The issue will be closed if it meets one of the following conditions:
 
-- The issue has been tagged **resolved**. Customers are welcome to re-open the issue if they feel their issues are not resolved.
+- The issue has been tagged **completed**. Customers are welcome to re-open the issue if they feel their issues are not resolved.
 - The issue has been tagged **need info from customer** and 3 business days have passed with no response from the customer.
 - The issue has been tagged **duplicate** and has the link to the original issue being tracked.
-- The issue has been tagged **deferred**.
+
 
 The above process/tags are transparent, thereby enabling our customers who opened support issues to know the most current status of their issues.
 
