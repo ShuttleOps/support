@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: 'p-needs triage'
+name: Custom issue template
+about: Bug report template
+title: ISSUE-
+labels: P- needs triage
 assignees: sharyljones
 
 ---
