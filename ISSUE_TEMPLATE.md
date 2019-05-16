@@ -1,8 +1,8 @@
 ---
 name: Custom issue template
 about: Bug report template
-title: ISSUE-
-labels: P- needs triage
+title: 'Bug Report'
+labels: P-needs triage
 assignees: sharyljones
 
 ---
