@@ -21,7 +21,7 @@ During the triage, we tag the support issues per the following:
 
 **Process related labels:**
 
-- [needs triage](https://github.com/ShuttleOps/support/labels/needs%triage): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
+- [needs triage](https://github.com/ShuttleOps/support/labels/needs%20triage): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
 - [investigate](https://github.com/ShuttleOps/support/labels/investigate): The issue has gone through the ShuttleOps internal support triage and the next action towards resolution has been identified.
 - [in progress](https://github.com/ShuttleOps/support/labels/in%20progress): An engineer is actively working on resolving the issue.
 - [need info from customer](https://github.com/ShuttleOps/support/labels/need%20info%20from%20customer): ShuttleOps requires additional information regarding the issue in order to continue troubleshooting. The customer who opened the issue is accountable to provide this information, to make progress towards resolution.
@@ -44,6 +44,6 @@ The above process/tags are transparent, thereby enabling our customers who opene
 - [feature request](https://github.com/ShuttleOps/support/labels/feature%20request): Feature currently does not exist. If implemented, it is intended to provide additional value to our customers
 - [update content](https://github.com/ShuttleOps/support/labels/update%20content): Customer specifically wants to know how to use/implement a feature. Issues tagged as such, will be updated in one of our content platforms such as Documentation, Forum, FAQs for customers to self-serve in the future.
 - [technical issue](https://github.com/ShuttleOps/support/labels/technical%20issue):  Customer is unable to use ShuttleOps service per expectation & needs help to resolve the issue. Issues determined to be bugs & feature requests will not be tagged as technical issues.
-- [question](https://github.com/ShuttleOps/support/labels/question): All non-technical issues faced by customers. For e.g. billing questions.
+- [question](https://github.com/ShuttleOps/support/labels/question): Any question from customers. For e.g. billing questions.
 - [duplicate](https://github.com/ShuttleOps/support/labels/duplicate): This exact issue is already being tracked
 
