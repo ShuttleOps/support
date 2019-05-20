@@ -1,7 +1,7 @@
 ShuttleOps Support
 =================
 
-This repository tracks bugs and feature requests for ShuttleOps. [Click here to log into ShuttleOps](https://app.shuttleops.io) (COMING SOON - TO BE LAUCHED 5/20/2019).  To open a new support issue, click on the "Issues" tab and then the "New Issue" button.
+This repository tracks bugs and feature requests for ShuttleOps. [Click here to sign up for Early Access to ShuttleOps](https://www.shuttleops.io/getproduct/).  To open a new support issue, click on the "Issues" tab and then the "New Issue" button.
 
 Open a new Support Issue:
 -------------------------
